@@ -28,7 +28,7 @@ real-world coding-related problems with Python. Even after these collected probl
 * **[Day 13:](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero/tree/master/Day_13)**- ***Question 102-114***
 * **[Day 14:](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero/tree/master/Day_14)**- ***Question 115-131***
 * **[Day 15:](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero/tree/master/Day_15)**- ***Question 132-150***
-* **[Day 16:](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero/tree/master/Day_16)**- ***Question 151-160***
+* **[Day 16:](https://github.com/kousarraza/100-Days-of- Code_Zero_to_Hero/tree/master/Day_16)**- ***Question 151-160***
 * **[Day 17:](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero/tree/master/Day_17)**- ***Question 161-174***
 * **[Day 18:](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero/tree/master/Day_18)**- ***Question 175-185***
 * **[Day 19:](https://github.com/kousarraza/100-Days-of-Code_Zero_to_Hero/tree/master/Day_19)**- ***Question 186-195***
